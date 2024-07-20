@@ -1,0 +1,7 @@
+2024-06-19 20:04:58,987 - root - CRITICAL - Critical
+2024-06-19 20:04:58,987 - root - ERROR - Error
+2024-06-19 20:04:58,987 - root - WARNING - Warning
+2024-06-19 20:04:58,987 - root - INFO - Info
+2024-06-19 20:04:58,987 - root - DEBUG - Debug
+2024-06-19 20:15:56,012 - __main__ - ERROR - Erro: ValueError - invalid literal for int() with base 10: 'bancario123'
+2024-06-19 20:17:13,562 - __main__ - INFO - assasasas entrou no sistema
